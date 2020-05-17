@@ -1,5 +1,5 @@
 <h1 align="center">
- :information_desk_person: DevFlix :information_desk_person:
+ :computer: DevFlix :computer:
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@ Utilizei o básico do HTML, CSS e JavaScript (jQuery)
 
 ## 🎨 Layout
 
-![Gif DevFlix](https://github.com/ChristySchott/indecision-react/blob/master/indecision.gif)
+![Gif DevFlix](https://github.com/ChristySchott/devflix/blob/master/devflix.gif)
 
 ### Aprendizados:
 
